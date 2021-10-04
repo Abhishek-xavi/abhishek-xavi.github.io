@@ -1,9 +1,9 @@
 ---
 date: '1'
 title: 'Trading Algorithm'
-cover: './halcyon.png'
+cover: './TradeAlgo.png'
 guthub: ''
-tech: 
+tech:
   - Python
   - Yahoo Finance
   - REST Api

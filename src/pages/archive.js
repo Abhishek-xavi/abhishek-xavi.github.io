@@ -109,8 +109,8 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Akash Suresh</title>
-        <link rel="canonical" href="https://akash-suresh.github.io/archive" />
+        <title>Archive | Abhishek Gupta</title>
+        <link rel="canonical" href="https://abhishek-xavi.github.io/archive" />
       </Helmet>
 
       <StyledMainContainer>
@@ -162,7 +162,8 @@ const ArchivePage = ({ location, data }) => {
                               href={external}
                               target="_blank"
                               rel="nofollow noopener noreferrer"
-                              aria-label="External Link">
+                              aria-label="External Link"
+                            >
                               <FormattedIcon name="External" />
                             </a>
                           )}
@@ -171,7 +172,8 @@ const ArchivePage = ({ location, data }) => {
                               href={github}
                               target="_blank"
                               rel="nofollow noopener noreferrer"
-                              aria-label="GitHub Link">
+                              aria-label="GitHub Link"
+                            >
                               <FormattedIcon name="GitHub" />
                             </a>
                           )}
@@ -207,8 +209,6 @@ export const pageQuery = graphql`
             title
             tech
             github
-            external
-            company
           }
           html
         }

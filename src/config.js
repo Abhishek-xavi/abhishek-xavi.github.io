@@ -1,14 +1,14 @@
 module.exports = {
   siteTitle: 'Abhishek Gupta | Technical Analyst',
   siteDescription:
-   "I'm a Technical Analyst based in Bangalore specializing in Planning aspects of Supply Chain tools, Relational Databases and Automations.",
+    'I\'m a Technical Analyst based in Bangalore specializing in Planning aspects of Supply Chain tools, Relational Databases and Automations.',
   siteKeywords:
-   'Abhishek Gupta, Abhishek, Gupta, abhishek-gupta, Technical Analyst, big data engineer, jda software, pesit',
+    'Abhishek Gupta, Abhishek, Gupta, abhishek-gupta, Technical Analyst, big data engineer, jda software, pesit',
   siteUrl: 'https://abhishek-xavi.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'todo',
   googleVerification: 'todo',
-  name: 'Akash Suresh',
+  name: 'Abhishek Gupta',
   location: 'Bangalore, India',
   email: 'abhishek.gupta0724@gmail.com',
   github: 'https://github.com/abhishek-xavi',
@@ -28,9 +28,8 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://www.twitter.com/abhishek070795'
-    }
-    
+      url: 'https://www.twitter.com/abhishek070795',
+    },
   ],
 
   navLinks: [
