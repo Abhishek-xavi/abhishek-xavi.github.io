@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://abhishek-xavi.github.io/sitemap/sitemap-index.xml
+Host: https://abhishek-xavi.github.io
