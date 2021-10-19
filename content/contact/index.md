@@ -3,4 +3,4 @@ title: 'Get In Touch'
 buttonText: 'Say Hello'
 ---
 
-Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+I'm currently looking for any new opportunities to explore my interest in the field of Deep Learning. My inbox is always open for you to reach out to me. Whether you have a question or just want to say hi, I'll get back to you!
